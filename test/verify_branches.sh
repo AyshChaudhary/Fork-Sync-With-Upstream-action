@@ -23,7 +23,6 @@ test_upstream_repo_exists() {
     else
         write_out "g" "PASSED\n"
     fi
-
 }
 
 test_upstream_branch_exists() {
